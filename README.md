@@ -9,12 +9,13 @@ This project focuses on analyzing COVID-19 data using SQL. The dataset includes 
 - **Power BI/Tableau** – (If visualization is done, mention it)  
 
 ## 📂 Dataset Details  
-- **Source:** (Mention dataset source, e.g., WHO, Kaggle, John Hopkins)  
+- **Source:** (WHO)  
 - **Data Includes:**  
   - Total cases, deaths, and recoveries  
   - Vaccination trends by country  
   - Population statistics for comparison  
-  - Case fatality rate calculations  
+  - Case fatality rate calculations
+**[Download Data Set Used](https://github.com/Durai-Murugan-DA/Covid-data-exploration/tree/e9c23df7643c3c199e139c8117d1ad1018287b85/Covid%20Data%20Set%20Used)**  
 
 ## 🔍 Key Insights & Analysis  
 ### 1️⃣ **COVID-19 Spread & Trends**  
@@ -40,7 +41,11 @@ High population density areas had higher infection spreads.
 📧 [duraijeeva2017@gmail.com]
 🔗 [www.linkedin.com/in/durai-murugan-data-analyst]
 
-## 📜  Some SQL Queries Used  
+## 📂 Project File  
+
+📌 [SQL Query File - Covid Data Exploration](https://github.com/Durai-Murugan-DA/Covid-data-exploration/blob/e9c23df7643c3c199e139c8117d1ad1018287b85/Covid%20data%20exploration%20project.sql)  
+
+## 📜  Some Sample SQL Queries Used  
 
 ```sql
 -- Data Cleaning & Formatting  
