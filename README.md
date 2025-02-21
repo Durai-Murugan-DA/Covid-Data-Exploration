@@ -4,9 +4,8 @@
 This project focuses on analyzing COVID-19 data using SQL. The dataset includes confirmed cases, death rates, and vaccination trends across various countries. The goal is to extract meaningful insights about the pandemic’s impact.  
 
 ## 🛠 Tools & Technologies Used  
-- **SQL (MySQL/PostgreSQL/SQL Server)** – For data exploration & analysis  
+- **SQL (MySQL/SSMS/SQL Server)** – For data exploration & analysis  
 - **Microsoft Excel** – For initial data review  
-- **Power BI/Tableau** – (If visualization is done, mention it)  
 
 ## 📂 Dataset Details  
 - **Source:** (WHO)  
