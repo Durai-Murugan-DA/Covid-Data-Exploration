@@ -1,4 +1,4 @@
-# 🦠 COVID Data Exploration Project  
+# COVID Data Exploration Project  
 
 ## 📌 Overview  
 This project focuses on analyzing COVID-19 data using SQL. The dataset includes confirmed cases, death rates, and vaccination trends across various countries. The goal is to extract meaningful insights about the pandemic’s impact.  
@@ -35,15 +35,15 @@ Vaccination significantly reduced the infection rate in most countries.
 Countries with early interventions had lower mortality rates.
 High population density areas had higher infection spreads.
 
-🏆 About the Author
-👤 Durai Murugan
-📧 [duraijeeva2017@gmail.com]
-🔗 [www.linkedin.com/in/durai-murugan-data-analyst]
-
 ## 📂 Project File  
 
 📌 [SQL Query File - Covid Data Exploration](https://github.com/Durai-Murugan-DA/Covid-data-exploration/blob/e9c23df7643c3c199e139c8117d1ad1018287b85/Covid%20data%20exploration%20project.sql)  
 
+## About the Author  
+
+👤 **Durai Murugan**  
+📧 [duraijeeva2017@gmail.com](mailto:duraijeeva2017@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/durai-murugan-data-analyst)  
 ## 📜  Some Sample SQL Queries Used  
 
 ```sql
