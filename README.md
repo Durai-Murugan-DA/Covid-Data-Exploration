@@ -37,7 +37,7 @@ High population density areas had higher infection spreads.
 
 ## 📂 Project File  
 
-📌 [SQL Query File - Covid Data Exploration](https://github.com/Durai-Murugan-DA/Covid-data-exploration/blob/e9c23df7643c3c199e139c8117d1ad1018287b85/Covid%20data%20exploration%20project.sql)  
+ [SQL Query File - Covid Data Exploration](https://github.com/Durai-Murugan-DA/Covid-data-exploration/blob/e9c23df7643c3c199e139c8117d1ad1018287b85/Covid%20data%20exploration%20project.sql)  
 
 ## About the Author  
 
