@@ -1,13 +1,13 @@
 # COVID Data Exploration Project  
 
-## 📌 Overview  
+##  Overview  
 This project focuses on analyzing COVID-19 data using SQL. The dataset includes confirmed cases, death rates, and vaccination trends across various countries. The goal is to extract meaningful insights about the pandemic’s impact.  
 
-## 🛠 Tools & Technologies Used  
+##  Tools & Technologies Used  
 - **SQL (MySQL/SSMS/SQL Server)** – For data exploration & analysis  
 - **Microsoft Excel** – For initial data review  
 
-## 📂 Dataset Details  
+##  Dataset Details  
 - **Source:** (WHO)  
 - **Data Includes:**  
   - Total cases, deaths, and recoveries  
@@ -16,26 +16,26 @@ This project focuses on analyzing COVID-19 data using SQL. The dataset includes 
   - Case fatality rate calculations
 **[Download Data Set Used](https://github.com/Durai-Murugan-DA/Covid-data-exploration/tree/e9c23df7643c3c199e139c8117d1ad1018287b85/Covid%20Data%20Set%20Used)**  
 
-## 🔍 Key Insights & Analysis  
-### 1️⃣ **COVID-19 Spread & Trends**  
+##  Key Insights & Analysis  
+### 🔹 **COVID-19 Spread & Trends**  
    - Countries with the highest infection rates.  
    - Daily case trends over time.  
    - Growth rate of infections.  
 
-### 2️⃣ **Mortality Analysis**  
+### 🔹 **Mortality Analysis**  
    - Case Fatality Rate (CFR) = (Total Deaths / Total Cases) × 100  
    - Countries with the highest death rates.  
 
-### 3️⃣ **Vaccination Impact**  
+### 🔹 **Vaccination Impact**  
    - Percentage of population vaccinated.  
    - Relationship between vaccination rates & case reduction.
 
-## 📈 Results & Conclusions
+##  Results & Conclusions
 Vaccination significantly reduced the infection rate in most countries.
 Countries with early interventions had lower mortality rates.
 High population density areas had higher infection spreads.
 
-## 📂 Project File  
+##  Project File  
 
  [SQL Query File - Covid Data Exploration](https://github.com/Durai-Murugan-DA/Covid-data-exploration/blob/e9c23df7643c3c199e139c8117d1ad1018287b85/Covid%20data%20exploration%20project.sql)  
 
